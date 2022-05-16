@@ -4,8 +4,10 @@
 
 //Função principal do programa
 void main(){
+    //Codigo para usar acentos
     setlocale(LC_ALL,"");
-    printf("Olá mundo");
+
+    
 
 
 }
